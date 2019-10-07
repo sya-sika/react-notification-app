@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^4.0.0",
+    "bootstrap": "^4.3.1",
     "date-utils": "^1.2.21",
     "holderjs": "^2.9.6",
     "jquery": "^3.4.1",
